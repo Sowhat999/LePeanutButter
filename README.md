@@ -16,7 +16,7 @@ I approach each day with passion and enthusiasm, always eager to learn, create, 
 ![Oracle](https://img.shields.io/badge/oracle-%20red?style=for-the-badge&logo=oracle&logoColor=white)
 
 
-### Find me in:
+### Find me
 [![Instagram](https://img.shields.io/badge/Instagram%20-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/le.peanut_)
 [![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@lepeanutbutter)
 [![X](https://img.shields.io/badge/%20-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ElPeanut_)
