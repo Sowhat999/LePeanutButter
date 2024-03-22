@@ -7,7 +7,7 @@
 </blockquote>
 
 ### About Me ✍️:
-I'm a System Engineer from the Escuela Colombiana de Ingeniería Julio Garavito.
+I'm a Systems Engineer from the Escuela Colombiana de Ingeniería Julio Garavito.
 I love video games and going to the cinema to immerse myself in fascinating stories. Traveling is one of my passions, always seeking new adventures and cultures!
 I approach each day with passion and enthusiasm, always eager to learn, create, and collaborate .
 
